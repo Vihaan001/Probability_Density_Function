@@ -51,4 +51,4 @@ Below is the visualization mapping the histogram of the transformed data against
 * `data.csv`: The India Air Quality dataset.
 * `pdf_fit_graph.png`: High-resolution plot comparing the actual data distribution with the fitted curve.
 
-> [cite_start]**Dataset Reference:** > Source: [India Air Quality Data on Kaggle](https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data)[cite: 29].
+> **Dataset Reference:** > Source: [India Air Quality Data on Kaggle](https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data).
